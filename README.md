@@ -6,10 +6,9 @@
 
 
 **documents:**
-
 This documents are tutorials from internet, most frequent used sites are: **Medium** and **TowardsDataScience**.
 
-**NetworkX** tutorials:
+**NetworkX tutorials:**
 * A Tutorial on NetworkX: Network Analysis in Python (Part-I)
   * https://medium.com/swlh/a-tutorial-on-networkx-network-analysis-in-python-part-i-43c1d35830b6 
 * Introduction to Network science with NetworkX
