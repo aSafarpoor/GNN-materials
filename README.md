@@ -20,4 +20,7 @@ This documents are tutorials from internet, most frequent used sites are: **Medi
 * NetworkX Tutorial (A.Hagberg, D.Schult, P.Swart)
   * https://networkx.org/documentation/networkx-1.9.1/_downloads/networkx_tutorial.pdf  
 
+**Pytorch_geometric:**
+* Pytorch_geometric_tutorials
+ * https://antoniolonga.github.io/Pytorch_geometric_tutorials/
 
