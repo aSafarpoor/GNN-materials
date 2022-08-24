@@ -22,5 +22,5 @@ This documents are tutorials from internet, most frequent used sites are: **Medi
 
 **Pytorch_geometric:**
 * Pytorch_geometric_tutorials
- * https://antoniolonga.github.io/Pytorch_geometric_tutorials/
+  * https://antoniolonga.github.io/Pytorch_geometric_tutorials/
 
