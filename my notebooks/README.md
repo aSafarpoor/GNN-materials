@@ -3,12 +3,12 @@
 * edited another notebooks by myself.
 
 
-**notbooks:**
+**Notbooks:**
 1. edited GNN_simple_code.ipynb
 2. edited DeepWalk_and_node2vec
 
 
-**important libraries and functions:**
+**Important libraries and functions:**
 * torch_geometric
   * datasets 
     * Planetoid
