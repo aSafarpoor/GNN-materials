@@ -23,6 +23,9 @@ This documents are tutorials from internet, most frequent used sites are: **Medi
 **Pytorch_geometric:**
 * Pytorch_geometric_tutorials
   * https://antoniolonga.github.io/Pytorch_geometric_tutorials/
+* LightGCN with PyTorch Geometric:
+  * https://medium.com/stanford-cs224w/lightgcn-with-pytorch-geometric-91bab836471e
+  * notebook: https://colab.research.google.com/drive/1KKugoFyUdydYC0XRyddcROzfQdMwDcnO?usp=sharing
 
 **GNN**
 * Understanding Graph Neural Networks 
