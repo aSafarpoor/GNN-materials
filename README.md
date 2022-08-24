@@ -30,3 +30,10 @@ This documents are tutorials from internet, most frequent used sites are: **Medi
 **GNN**
 * Understanding Graph Neural Networks 
   * https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z
+* Hands on with Graph Neural Networks
+  * https://colab.research.google.com/drive/16GBgwYR2ECiXVxA1BoLxYshKczNMeEAQ?usp=sharing
+* Node Classification on large Knowledge Graphs
+  * https://colab.research.google.com/drive/1LJir3T6M6Omc2Vn2GV2cDW_GV2YfI53_?usp=sharing
+* GNN series
+  * start with: https://colab.research.google.com/drive/1h3-vJGRVloF5zStxL5I0rSy4ZUPNsjy8#scrollTo=qoW2Z7P70LNQ
+  
