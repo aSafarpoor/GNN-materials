@@ -24,3 +24,6 @@ This documents are tutorials from internet, most frequent used sites are: **Medi
 * Pytorch_geometric_tutorials
   * https://antoniolonga.github.io/Pytorch_geometric_tutorials/
 
+**GNN**
+* Understanding Graph Neural Networks 
+  * https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z
