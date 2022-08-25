@@ -5,7 +5,9 @@
 
 **Notbooks:**
 1. edited GNN_simple_code.ipynb
-2. edited DeepWalk_and_node2vec
+2. edited_1_Introduction.ipynb
+??????
+4. edited DeepWalk_and_node2vec
 
 
 **Important libraries and functions:**
