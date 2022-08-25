@@ -6,8 +6,8 @@
 **Notbooks:**
 1. edited GNN_simple_code.ipynb
 2. edited_1_Introduction.ipynb
-??????
-4. edited DeepWalk_and_node2vec
+3. edited_2_Node_Classification.ipynb
+4. edited DeepWalk_and_node2vec.ipynb
 
 
 **Important libraries and functions:**
