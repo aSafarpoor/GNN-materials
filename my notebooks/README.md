@@ -8,6 +8,9 @@
 2. edited_1_Introduction.ipynb
 3. edited_2_Node_Classification.ipynb
 4. edited DeepWalk_and_node2vec.ipynb
+   * related papers:
+     * DeepWalk: Online Learning of Social Representations
+     * node2vec: Scalable Feature Learning for Networks
 
 
 **Important libraries and functions:**
